@@ -296,21 +296,21 @@
 <form class="" action="add.php">
     <div class="row">
         <div class="col col-xs col-md">
-            <label for="">Nombre Producto:</label>
-            <input required class="form-control" type="text" name="nombre_producto" value="" placeholder="Zapatos">
+            <label for="">AGENCIA DE AUTOS:</label>
+            <input required class="form-control" type="text" name="nombre_producto" value="" placeholder="continental">
         </div>
         <div class="col col-xs col-md">
-            <label for="">Precio Producto:</label>
+            <label for="">Precio De autos:</label>
             <input required class="form-control" type="text" name="precio" value="">
         </div>
 
         <div class="col col-xs col-md">
         <label for="">Categoria:</label>
         <select class="form-select" name="categoria" id="idcategporia">
-            <option value="volvo">Zapatos</option>
-            <option value="saab">Playeras</option>
-            <option value="mercedes">Pantalones</option>
-            <option value="audi">Camisas</option>
+            <option value="volvo">marca</option>
+            <option value="saab">modelo</option>
+            <option value="mercedes">año</option>
+            <option value="audi">tipo</option>
         </select>
         </div>
     </div>
@@ -326,6 +326,18 @@
         <div class="col">
             <label for="">Imagen Del  Producto:</label>
             <input requeried class="form-control" type="file" name="precio" value="">
+            div class="mb-3 row">
+    <label for="staticEmail" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="email@example.com">
+    </div>
+  </div>
+       <div class="mb-3 row"
+            <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+            <div class="col-sm-10">
+            <input type="password" class="form-control" id="inputPassword">
+    </div>
+  </div>
         </div>
     </div>
     <br>
@@ -351,3 +363,6 @@
 -->
 </body>
 </html>
+
+
+
