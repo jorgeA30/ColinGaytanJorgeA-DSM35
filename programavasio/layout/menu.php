@@ -18,7 +18,7 @@
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="http://localhost:8080/FBM/resource/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="http://localhost:ColinGaytanJorgeADSM-35/programavasio/resource/css/sb-admin-2.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/07bf2ec53c.js" crossorigin="anonymous"></script>
 </head>
 
@@ -42,7 +42,7 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item active">
-                <a class="nav-link" href="http://localhost:8080/FBM/">
+                <a class="nav-link" href="http://localhost:ColinGaytanJorgeADSM-35/programavasio/">
                 <i class="fa-sharp fa-solid fa-house"></i>
                     <span>Inicio</span></a>
             </li>
@@ -109,17 +109,17 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="http://localhost:8080/FBM/views/products/index.php">
+                <a class="nav-link" href="http://ColinGaytanJorgeADSM-35/programavasio/views/products/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Productos</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="http://localhost:8080/FBM/views/categories/index.php">
+                <a class="nav-link" href="http://localhost:ColinGaytanJorgeADSM-35/programavasio/views/categories/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Categorias</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="http://localhost:8080/FBM/views/clients/index.php">
+                <a class="nav-link" href="http://localhost:ColinGaytanJorgeADSM-35/programavasio/views/clients/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Clientes</span></a>
             </li>

@@ -47,14 +47,14 @@
     <script src="./vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for all pages-->
-    <script src="http://localhost:8080/FBM/resource/js/sb-admin-2.min.js"></script>
+    <script src="http://localhost:ColinGaytanJorgeADSM-35/programavasio/resource/js/sb-admin-2.min.js"></script>
 
     <!-- Page level plugins -->
     <script src="./vendor/chart.js/Chart.min.js"></script>
 
     <!-- Page level custom scripts -->
-    <script src="http://localhost:8080/FBM/resource/js/demo/chart-area-demo.js"></script>
-    <script src="http://localhost:8080/FBM/resource/js/demo/chart-pie-demo.js"></script>
+    <script src="http://localhost:ColinGaytanJorgeADSM-35/programavasio/resource/js/demo/chart-area-demo.js"></script>
+    <script src="http://localhost:ColinGaytanJorgeADSM-35/programavasio/resource/js/demo/chart-pie-demo.js"></script>
 
 </body>
 
